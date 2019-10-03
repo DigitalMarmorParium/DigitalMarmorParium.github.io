@@ -5,3 +5,5 @@ The Digital Marmor Parium is a project directed by [Monica Berti](http://www.mon
 This work is part of the [Digital Fragmenta Historicorum Gracorum (DFHG)](http://www.dfhg-project.org), which is a digital collection of ancient Greek fragmentary historians that includes also an edition of the text of the Parian chronicle with a Latin translation, a chronological table, and critical notes.
 
 The aim of the project is to provide digital data about named entities (geographical and personal names), chronological expressions, and linguistic information preserved by the text of the Parian Marble.
+
+* [EpiDoc data](https://github.com/DigitalMarmorParium/EpiDoc)
